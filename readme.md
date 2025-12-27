@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# Guessing Game
 
 ## Features
 - Two Player Functionality
